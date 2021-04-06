@@ -12,8 +12,12 @@
 ### 软件版本
 
 + BIOS版本：E7C82IMS.120
-+ OpenCore版本：0.6.3
-+ MacOS版本：10.15.7
++ OpenCore版本：0.6.7
++ MacOS版本：11.2.3
+
+### Change log
+
++ 2021.04.06 参考 [myqqiu](https://github.com/myqqiu/Hackintosh-B460M-MORTAR-i5-10500-iGPU-UHD630) 更新到 opencore 0.6.7
 
 ### 参考
 1. https://github.com/myqqiu/Hackintosh-B460M-MORTAR-i5-10500-iGPU-UHD630
