@@ -12,16 +12,14 @@
 ### 软件版本
 
 + BIOS版本：E7C82IMS.120
-+ OpenCore版本：0.6.7
-+ MacOS版本：11.2.3
++ OpenCore版本：0.8.0
++ MacOS版本：12.4
 
 ### Change log
 
++ 2022.05.28 更新到 opencore 0.8.0, 更新 macOS 到 12.4
+  + 参考 [BV1HB4y1m7nJ](https://www.bilibili.com/video/BV1HB4y1m7nJ) 关闭 `SetApfsTrimTimeout` 加快开机速度
 + 2021.04.06 参考 [myqqiu](https://github.com/myqqiu/Hackintosh-B460M-MORTAR-i5-10500-iGPU-UHD630) 更新到 opencore 0.6.7
-+ 2021.04.06
-  + 参考 [myqqiu](https://github.com/myqqiu/Hackintosh-B460M-MORTAR-i5-10500-iGPU-UHD630) 更新到 opencore 0.7.4
-  + 更新到小米 4k 显示器, 实测 `enable-max-pixel-clock-override` 会导致 4K 显示器花屏, 需使用 `enable-hdmi20` 参数
-  + 微星MAG B460M MORTAR 的 HDMI 接口不支持 4k@60hz, 只有 30hz 可用,需要使用 DP 接口
 
 ### 参考
 
