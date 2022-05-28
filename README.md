@@ -1,6 +1,6 @@
 #### 硬件配置
 
-+ 主板：[微星MAG B460M MORTAR](https://cn.msi.com/Motherboard/MAG-B460M-MORTAR-WIFI/Specification)
++ 主板：[微星MAG B460M MORTAR](https://cn.msi.com/Motherboard/MAG-B460M-MORTAR/Specification)
 + CPU：i7-10700
 + 显卡：暂无
 + 内存：美商海盗船(USCORSAIR)DDR4 3200 16GB x2
