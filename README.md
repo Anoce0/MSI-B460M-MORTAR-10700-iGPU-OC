@@ -6,7 +6,7 @@
 + 内存：美商海盗船(USCORSAIR)DDR4 3200 16GB x2
 + 硬盘：WD SN750 500G
 + 电源：海韵 CORE GM650
-+ 显示器：小米 4k 显示器
++ 显示器：DELL U2414H (1080P)
 + 无线网卡/蓝牙：BCM943602CS【Bluetooth 4.1, 1300M 免驱】
 
 ### 软件版本
