@@ -19,6 +19,7 @@
 
 + 2022.05.28 更新到 opencore 0.8.0, 更新 macOS 到 12.4
   + 参考 [BV1HB4y1m7nJ](https://www.bilibili.com/video/BV1HB4y1m7nJ) 关闭 `SetApfsTrimTimeout` 加快开机速度
+  + 参考 [Spectrelai](https://github.com/Spectrelai/Hackintosh-B460M-MORTAR-WIFI) 使用 USBMap 替换 USBInjectall
 + 2021.04.06 参考 [myqqiu](https://github.com/myqqiu/Hackintosh-B460M-MORTAR-i5-10500-iGPU-UHD630) 更新到 opencore 0.6.7
 
 ### 参考
