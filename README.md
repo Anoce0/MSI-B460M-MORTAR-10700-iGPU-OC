@@ -12,11 +12,12 @@
 ### 软件版本
 
 + BIOS版本：E7C82IMS.120
-+ OpenCore版本：0.8.8
-+ MacOS版本：13.0
++ OpenCore版本：0.9.8
++ MacOS版本：14.2.1 (23C71)
 
 ### Change log
 
++ 2023.12.21 升级 opencore 到 0.9.8, 升级 macOS 到 14.2.1
 + 2023.01.10 升级 opencore 到 0.8.8, 启动页面添加 reset NVRAM 选项 (按空格触发)
 + 2022.10.26 升级 opencore 到 0.8.5, 修复麦克风问题 (更新 AppleALC layoutid=7)
 + 2022.06.18 升级硬件
